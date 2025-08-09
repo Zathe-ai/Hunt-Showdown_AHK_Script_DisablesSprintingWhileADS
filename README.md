@@ -1,2 +1,2 @@
-# Hunt-Showdown_AHK_Script_DisablesSprintingWhileADS
-This fixes aim interruptions caused by sprinting while shooting in Hunt Showdown
+Created by ZATHE
+Disables Sprint while in ADS to prevent aim interruption in Hunt Showdown
